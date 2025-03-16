@@ -1,7 +1,7 @@
-site_name: $site_name # Change this to your site name
-site_description: $site_description
-site_url: $site_url # Change this to your site URL
-site_author: $site_author
+site_name: ENSG SDI Masterclass 2025 # Change this to your site name
+site_description: Contenu des labs du cours
+site_url: https://elasticlabs.github.io/ensg-sdi-masterclass-2025 # Change this to your site URL
+site_author: Patrice MAUNY
 
 theme:
     name: 'material'
@@ -11,7 +11,7 @@ theme:
     font:
         text: Karla
         code: Ubuntu Mono
-    language: $language
+    language: Français
     palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -129,9 +129,9 @@ extra_css:
     - https://cdn.jsdelivr.net/gh/Enveloppe/_static@refs/heads/master/dist/styles.css
 extra:
   SEO: '_assets/meta/logo.png'
-  comments: $comments
+  comments: False
   attachments: '_assets/img/'
-  no-auto-h1: $auto_h1
+  no-auto-h1: True
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Enveloppe/
