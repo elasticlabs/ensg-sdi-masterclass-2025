@@ -1,1 +1,1 @@
-{"config":{"lang":["fr"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"blog/","title":"Index","text":""},{"location":"blog/#blog","title":"Blog","text":""}]}
+{"config":{"lang":["fr"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"blog/","title":"Index","text":""},{"location":"blog/#blog","title":"Blog","text":""},{"location":"tags/","title":"Tags","text":""},{"location":"tags/#tags","title":"Tags","text":""}]}
