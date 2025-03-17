@@ -1,5 +1,5 @@
 ---
-share: "True"
+share: "true"
 ---
 
 Bienvenue dans cette série de cours sur la conception d'Infrastructures de Données Géospatiales sous forme de micro services. 
