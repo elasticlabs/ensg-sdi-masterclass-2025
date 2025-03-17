@@ -1,7 +1,6 @@
 ---
 share: "True"
 ---
-
 ## Objectifs
 
 Ce laboratoire a pour objectif de vous apprendre à déployer une infrastructure de données géospatiales en utilisant Docker Compose. À la fin de ce lab, vous serez capables de :
