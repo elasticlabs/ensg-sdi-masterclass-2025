@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://elasticlabs.github.io/ensg-sdi-masterclass-2025/Lab%2001%20-%20Mise%20en%20route/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://elasticlabs.github.io/ensg-sdi-masterclass-2025/Lab%2002%20-%20Composition%20d%27une%20IDG%20de%20base/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://elasticlabs.github.io/ensg-sdi-masterclass-2025/Lab%2003%20-%20Organiser%20sa%20configuration/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://elasticlabs.github.io/ensg-sdi-masterclass-2025/Lab%2004%20-%20Importer%20des%20donn%C3%A9es/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
          <loc>https://elasticlabs.github.io/ensg-sdi-masterclass-2025/blog/</loc>
          <lastmod>2025-03-17</lastmod>
     </url>
