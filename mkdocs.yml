@@ -108,7 +108,7 @@ plugins:
   - custom-attributes:
       file: '_static/css/custom_attributes.css'
   - tags:
-      tags_file: tags.md
+      enabled: false
   - callouts
   - glightbox
 hooks:
